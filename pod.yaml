@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: iammithran/newimage:latest
+          image: rajansrv/srvimage:latest
           imagePullPolicy: Always
